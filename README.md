@@ -57,9 +57,6 @@
   <a href="https://prometheus.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45" style="margin-right: 20px;" />
   </a>
-  <a href="https://www.dynatrace.com/" target="_blank">
-    <img src="https://github.com/SuryaGelli/SuryaGelli/blob/main/Dynatrace_Logo_color_negative_vertical.png" height="45" style="margin-right: 20px;" />
-  </a>
 </p>
 
 ## 📊 GitHub Stats (Expand to View) 
