@@ -24,26 +24,11 @@
    <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"  height="40" />
   </a> 
-  <a href="https://cloud.google.com/" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"  height="40" />
-  </a>
   <a href="https://azure.microsoft.com/" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"  height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  height="45" /> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  height="45" />
-  </a>
-  <a href="https://helm.sh/" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg"  height="45" />
-  </a> 
-  <a href="https://argoproj.github.io/cd/" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argo/argo-original.svg"  height="45" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"  height="45" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="80" />
@@ -60,46 +45,3 @@
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" />
   </a>
  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="45" /> 
-  </a>
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  height="45" />
-  </a>
-  
-  ### Monitoring
-  
- <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" />
-  </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45" />
-  </a>
-  <a href="https://www.dynatrace.com/" target="_blank" >
-    <img src="https://github.com/SuryaGelli/SuryaGelli/blob/main/Dynatrace_Logo_color_negative_vertical.png" height="45" />
-  </a>
-</p>
-
-## 📊 GitHub Stats (Expand to View) 
-  
- <details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-   
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=surya-gelli&theme=2077" alt="surya-gelli" /></p>
-
-</details>
-
-  <details>
-  <summary><b>📈 My Top Languages</b></summary>
-
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surya-gelli&theme=aura" alt="surya-gelli" /></p>
-
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surya-gelli&theme=aura" alt="surya-gelli" /></p>
-
-</details> 
-
-  <details>
-  <summary><b>📈 My Contributions</b></summary>
-   
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surya-gelli&t
