@@ -19,41 +19,41 @@
 ## :zap: Skills
 
    <a href="https://www.linux.org/" target="_blank" />
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="70" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  height="70" />
   </a>
    <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"  height="70" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"  height="70" />
   </a> 
   <a href="https://cloud.google.com/" target="_blank" >
-    <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png"  height="70" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"  height="70" />
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"  height="75" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"  height="75" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  height="80" />
   </a>
   <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg"  height="80" />
   </a> 
   <a href="https://argoproj.github.io/cd/" target="_blank" >
-    <img src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png"  height="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argo/argo-original.svg"  height="80" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"  height="80" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="120" />
   </a>
    </a>
     <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="80" />
   </a>
   <a href="https://www.ansible.com/" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"  height="80" />
   </a>
  </a>
     <a href="https://pages.github.com/?(null)" target="_blank" >
@@ -61,20 +61,20 @@
   </a>
  </a>
   <a href="https://code.visualstudio.com/" target="_blank" >
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="80" /> 
   </a>
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  height="80" />
   </a>
   
   ### Monitoring
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="80" />
   </a>
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="80" />
   </a>
   <a href="https://www.dynatrace.com/" target="_blank" >
     <img src="https://github.com/SuryaGelli/SuryaGelli/blob/main/Dynatrace_Logo_color_negative_vertical.png" height="80" />
