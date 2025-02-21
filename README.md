@@ -99,3 +99,9 @@
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/surya-gelli/count.svg)
+
+### Lottie Animation
+
+<p align="center">
+  <iframe src="https://assets10.lottiefiles.com/packages/lf20_KkFZbp.json" width="400" height="400" style="border:none;" alt="Lottie Animation"></iframe>
+</p>
