@@ -1,107 +1,88 @@
-# Hi, I'm Surya Gelli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-### Hi there, I hope you're doing well! I’m a passionate DevOps & DevSecOps engineer with a focus on improving software development processes, automation, and cloud infrastructure. I love building secure, scalable, and efficient systems. Let's connect and share ideas to build awesome things together! 🤖
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-gelli&theme=algolia" alt="Surya Gelli" />
-</p>
-
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
-
-## :zap: Skills
-
-<p align="center">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45" style="margin-right: 20px;" />
-  </a>
-  <a href="https://pages.github.com/?(null)" target="_blank">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" style="margin-right: 20px;" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" style="margin-right: 20px;" />
-  </a>
-</p>
-
-### DevSecOps Tools
-
-<p align="center">
-  <a href="https://www.sonarqube.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/SonarQube_Logo.png" height="50" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.checkmarx.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Checkmarx_logo.png" height="50" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.blackducksoftware.com/" target="_blank">
-    <img src="https://www.blackducksoftware.com/sites/all/themes/blackduck/images/blackduck-logo.svg" height="50" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.snyk.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Snyk_logo.svg" height="50" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.owasp.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Owasp_logo.svg" height="50" style="margin-right: 20px;" />
-  </a>
-</p>
-
-### DevSecOps Pipeline
-
-<p align="center">
-  <img src="https://www.devsecops.org/wp-content/uploads/2019/06/DevSecOps_pipeline.png" width="600" style="margin-top: 30px;" />
-</p>
-
-## 📊 GitHub Stats (Expand to View)
-
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=surya-gelli&theme=2077" alt="surya-gelli" /></p>
-
-</details>
-
-<details>
-  <summary><b>📈 My Top Languages</b></summary>
-
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surya-gelli&theme=aura" alt="surya-gelli" /></p>
-
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surya-gelli&theme=aura" alt="surya-gelli" /></p>
-
-</details>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-## 📫 How to reach me? <img align="center" src="https://github.com/SuryaGelli/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" />
-
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/surya-gelli/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Hashnode](https://surya-gelli.hashnode.dev/) 🌐 <br>
-  ⦿ Shoot Me an [Email](mailto:surya.gelli@example.com) 💌 <br>
+<h1 align="center">Hey Everyone 👋, I'm Surya Gelli</h1>
 
 <div align="center">
+  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+</div>
 
-### Show some ❤️ by starring some of the repositories!
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
-
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/surya-gelli/count.svg)
-
-### Lottie Animation
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
 
 <p align="center">
-  <iframe src="https://assets10.lottiefiles.com/packages/lf20_KkFZbp.json" width="400" height="400" style="border:none;" alt="Lottie Animation"></iframe>
+  <a href="https://github.com/jaiswaladi246">
+    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+  </a>
+  <a href="https://www.youtube.com/@devopsshack">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
+  </a>
+  <a href="https://linkedin.com/in/adityajaiswal7">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+  </a>
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=suryagelli-devops&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
+- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 📫 How to reach me **office@devopsshack.com**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryagelli-devops&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryagelli-devops&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+---
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=suryagelli-devops&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+---
+
+### 👨‍💼 About Me & 🤝 Open to Collaborations
+
+🎤 Available for **Guest Sessions / Webinars**  
+🤝 Open to **Project Collaborations / YouTube Collabs**  
+💼 Offering **DevOps Consulting / Mentorship**  
+📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
+
+> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
