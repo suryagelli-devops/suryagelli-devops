@@ -1,7 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Surya Gelli</h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector </h3>
@@ -71,12 +70,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=suryagelli-devops&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
-
-### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
