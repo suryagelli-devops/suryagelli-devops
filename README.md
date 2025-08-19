@@ -7,11 +7,8 @@
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector </h3>
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
+  <a href="https://github.com/suryagelli-devops">
     <img src="https://img.shields.io/github/followers/suryagelli-devops?label=Follow&style=social" />
-  </a>
-  <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
   <a href="https://linkedin.com/in/suryagelli">
     <img src="https://www.linkedin.com/in/surya-gelli-8b54641b0?logo=linkedin&style=flat-square" />
@@ -24,17 +21,14 @@
   <img src="https://komarev.com/ghpvc/?username=suryagelli-devops&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
-
+- 👨‍💻 All of my projects are available at [https://github.com/suryagelli-devops](https://github.com/suryagelli-devops)  
+- 💬 Ask me about **DevOps & Cloud DevOps**
+  
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/suryagelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
