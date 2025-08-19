@@ -10,8 +10,8 @@
   <a href="https://github.com/suryagelli-devops">
     <img src="https://img.shields.io/github/followers/suryagelli-devops?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/suryagelli">
-    <img src="https://www.linkedin.com/in/surya-gelli-8b54641b0?logo=linkedin&style=flat-square" />
+  <a href="https://linkedin.com/in/surya-gelli">
+    <img src="https://www.linkedin.com/in/surya-gelli?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/suryagelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/surya-gelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
