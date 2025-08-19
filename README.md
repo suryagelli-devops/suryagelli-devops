@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/@devopsshack">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
+  <a href="https://linkedin.com/in/suryagelli">
     <img src="https://www.linkedin.com/in/surya-gelli-8b54641b0?logo=linkedin&style=flat-square" />
   </a>
 </p>
