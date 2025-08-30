@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
-  <b>☁️ Cloud & DevOps:</b>
+  <b>☁️ Cloud:</b>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="25" style="vertical-align:middle; margin: 0 8px;"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="25" style="vertical-align:middle; margin: 0 8px;"/> 
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" height="25" style="vertical-align:middle; margin: 0 8px;"/> 
@@ -34,4 +34,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="25" style="vertical-align:middle; margin: 0 8px;"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="25" style="vertical-align:middle; margin: 0 8px;"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="25" style="vertical-align:middle; margin: 0 8px;"/> 
+</p>
+
+<p>
+  <b>🔐 DevOps & DevSecOps:</b>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" height="25" style="vertical-align:middle; margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" height="25" style="vertical-align:middle; margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" height="25" style="vertical-align:middle; margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="25" style="vertical-align:middle; margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" height="25" style="vertical-align:middle; margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" height="25" style="vertical-align:middle; margin: 0 8px;"/>
 </p>
