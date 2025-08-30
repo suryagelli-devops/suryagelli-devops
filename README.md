@@ -18,7 +18,9 @@
 <p>
   <b>⚙️ CI/CD & Automation:</b>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="25" style="vertical-align:middle; margin: 0 8px;"/> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="25" style="vertical-align:middle; margin: 0 8px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="25" style="vertical-align:middle; margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" height="25" style="vertical-align:middle; margin: 0 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" height="25" style="vertical-align:middle; margin: 0 8px;"/>
 </p>
 
 <p>
@@ -41,7 +43,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" height="25" style="vertical-align:middle; margin: 0 8px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" height="25" style="vertical-align:middle; margin: 0 8px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" height="25" style="vertical-align:middle; margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="25" style="vertical-align:middle; margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" height="25" style="vertical-align:middle; margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" height="25" style="vertical-align:middle; margin: 0 8px;"/>
+</p>
+
+<p>
+  <b>Scripting:</b>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="25" style="vertical-align:middle; margin: 0 8px;"/>
 </p>
